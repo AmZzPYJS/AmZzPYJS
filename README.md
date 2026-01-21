@@ -1,6 +1,6 @@
 ## 👋 Présentation
 
-Je m’appelle **Amine Mezouer**, étudiant en **Licence 3 Informatique** à l’UFR des Sciences de Versailles.  
+Je m’appelle **Amîn Mezouer**, étudiant en **Licence 3 Informatique** à l’UFR des Sciences de Versailles.  
 Intéressé par la programmation système, les structures de données et les bases théoriques de l’informatique.
 
 Je développe régulièrement des projets académiques et personnels afin de consolider mes compétences et d’approfondir ma compréhension des concepts fondamentaux.
