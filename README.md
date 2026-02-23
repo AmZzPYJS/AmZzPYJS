@@ -1,13 +1,12 @@
 ## 👋 Présentation
 
-Je m’appelle **Amîn MEZOUER**, étudiant en **Licence 3 Informatique** à l’UFR des Sciences de Versailles.  
-Intéressé par la programmation système, les structures de données et les bases théoriques de l’informatique.
+Salut, je m’appelle **Amîn MEZOUER**, étudiant en **Licence 3 Informatique** à l’UFR des Sciences de Versailles.  
 
-Je développe régulièrement des projets académiques et personnels afin de consolider mes compétences et d’approfondir ma compréhension des concepts fondamentaux.
+Je développe régulièrement des projets académiques et personnels afin de consolider mes compétences et d’approfondir mes connaissances sur des sujets qui m'interessent
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences
 
 **Langages :**
 - Rust
@@ -39,11 +38,11 @@ Je développe régulièrement des projets académiques et personnels afin de con
 
 Vous trouverez sur ce profil :
 - des projets académiques (TD, TP, exercices encadrés)
-- des projets personnels visant à approfondir certains concepts
+- des projets personnels qui me tiennent à coeur de développer
 - du code écrit avec un objectif pédagogique et de compréhension
 
 ---
 
 ## 🎯 Objectif
 
-Approfondir mes compétences techniques, gagner en rigueur et me préparer à la poursuite d’études et au monde professionnel.
+Approfondir mes compétences, gagner en rigueur et me préparer à la poursuite d’études et au monde professionnel.
