@@ -44,7 +44,7 @@ Vous trouverez sur ce profil :
 ## ​🎓​ Certifications
 
 - Certification Python (Basic) - HackerRank, 2026 [View Certificate](https://www.hackerrank.com/certificates/f3bfd3182218)
-- [![Cerification Linux Unhatched - Cisco Networking Academy](file:///C:/Users/algme/OneDrive/Bureau/Alternance/Certif/BadgeLinux.png)](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
+- Cerification Linux Unhatched - Cisco Networking Academy [!Certification]([file:///C:/Users/algme/OneDrive/Bureau/Alternance/Certif/BadgeLinux.png](https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/twitter_thumb_201604_image.png))](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
 
 ---
 
