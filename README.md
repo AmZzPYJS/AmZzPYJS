@@ -43,7 +43,8 @@ Vous trouverez sur ce profil :
 
 ## ​🎓​ Certifications
 
-- Certification Python (Basic) - HackerRank, 2026 Credential ID: F3BFD3182218 [View Certificate](https://www.hackerrank.com/certificates/f3bfd3182218)
+- Certification Python (Basic) - HackerRank, 2026 [View Certificate](https://www.hackerrank.com/certificates/f3bfd3182218)
+- Cerification Linux Unhatched - Cisco Networking Academy [View Certificate](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
 
 ---
 
