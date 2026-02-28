@@ -41,6 +41,10 @@ Vous trouverez sur ce profil :
 - des projets personnels qui me tiennent à coeur de développer
 - du code écrit avec un objectif pédagogique et de compréhension
 
+## ​🎓​ Certifications
+
+- Certification Python (Basic) - HackerRank, 2026 Credential ID: F3BFD3182218 [View Certificate](https://www.hackerrank.com/certificates/f3bfd3182218)
+
 ---
 
 ## 🎯 Objectif
