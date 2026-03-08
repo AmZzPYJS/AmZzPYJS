@@ -1,10 +1,13 @@
-# Amîn Mezouer | Etudiant Informatique à l'UVSQ | 21 ans
+# Amîn Mezouer | Computer Science Student @ UVSQ
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmZzPYJS&color=blue)
 
----
 
-## 🛠 Skills
+
+
+
+## 🛠 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
@@ -16,7 +19,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+
+
 
 ## 🎓 Certifications
 
@@ -26,11 +30,16 @@
 
 [![Pandas Certification](https://img.shields.io/badge/Pandas-Certification-150458?style=for-the-badge&logo=pandas)](https://www.kaggle.com/learn/certification/amnmezouer/pandas)
 
----
+
+
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmZzPYJS&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmZzPYJS&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmZzPYJS&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmZzPYJS&layout=compact&theme=tokyonight&hide_border=true)
 
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AmZzPYJS&theme=tokyonight&hide_border=true)
