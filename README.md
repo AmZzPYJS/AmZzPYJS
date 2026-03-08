@@ -1,54 +1,36 @@
-## 👋 Présentation
+# Amîn Mezouer | Etudiant Informatique à l'UVSQ | 21 ans
 
-Salut, je m’appelle **Amîn MEZOUER**, étudiant en **Licence 3 Informatique** à l’UFR des Sciences de Versailles.  
-
-Je développe régulièrement des projets académiques et personnels afin de consolider mes compétences et d’approfondir mes connaissances sur des sujets qui m'interessent
+![Profile views](https://komarev.com/ghpvc/?username=AmZzPYJS&color=blue)
 
 ---
 
-## 🛠️ Compétences
+## 🛠 Skills
 
-**Langages :**
-- Rust
-- C / C++
-- Python
-- JavaScript
-- SQL
-- R
-
-**Domaines :**
-- Programmation système
-- Structures de données et algorithmes
-- Bases de données
-- Notions de réseau
-- Introduction à la cryptographie
-- Data science
-
-**Outils :**
-- Git / GitHub
-- R Studio
-- Visual Studio Code
-- WSL Ubuntu
-- VM Oracle
-- Photoshop (bases)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Projets
+## 🎓 Certifications
 
-Vous trouverez sur ce profil :
-- des projets académiques (TD, TP, exercices encadrés)
-- des projets personnels qui me tiennent à coeur de développer
-- du code écrit avec un objectif pédagogique et de compréhension
+[![Python Certification](https://img.shields.io/badge/Python-Certification-blue?style=for-the-badge&logo=python)](https://www.hackerrank.com/certificates/f3bfd3182218)
 
-## ​🎓​ Certifications
+[![Linux Certification](https://img.shields.io/badge/Linux-Certification-yellow?style=for-the-badge&logo=linux)](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
 
-- Certification Python (Basic) - HackerRank, 2026 [View Certificate](https://www.hackerrank.com/certificates/f3bfd3182218)
-- Cerification Linux Unhatched - Cisco Networking Academy [View Certificate](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
-- Certification Pandas - Kaggle Data Science [View Certificate](https://www.kaggle.com/learn/certification/amnmezouer/pandas)
+[![Pandas Certification](https://img.shields.io/badge/Pandas-Certification-150458?style=for-the-badge&logo=pandas)](https://www.kaggle.com/learn/certification/amnmezouer/pandas)
 
 ---
 
-## 🎯 Objectif
+## 📊 GitHub Statistics
 
-Approfondir mes compétences, gagner en rigueur et me préparer à la poursuite d’études et au monde professionnel.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmZzPYJS&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmZzPYJS&layout=compact&theme=tokyonight)
+
