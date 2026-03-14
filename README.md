@@ -1,4 +1,4 @@
-# Amîn Mezouer | Computer Science Student @ UVSQ
+# Amîn Mezouer | Computer Science Student @UVSQ
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmZzPYJS&color=blue)
