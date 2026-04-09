@@ -41,7 +41,7 @@
 [![Python Certification](https://img.shields.io/badge/Python-Certification-blue?style=for-the-badge&logo=python)](https://www.hackerrank.com/certificates/f3bfd3182218)
 [![Linux Certification](https://img.shields.io/badge/Linux-Certification-yellow?style=for-the-badge&logo=linux)](https://www.credly.com/badges/2dde61b1-aa24-4698-9036-f0d9d3c0aeac/public_url)
 [![Pandas Certification](https://img.shields.io/badge/Pandas-Certification-150458?style=for-the-badge&logo=pandas)](https://www.kaggle.com/learn/certification/amnmezouer/pandas)
-[![EF SET B2](https://img.shields.io/badge/English_B2-EF_SET-00A3E0?style=for-the-badge)](https://www.efset.org/cert/TONID)
+[![EF SET B2](https://img.shields.io/badge/English_B2-EF_SET-00A3E0?style=for-the-badge)](https://cert.efset.org/fr/K2qoA2)
  
 ---
  
