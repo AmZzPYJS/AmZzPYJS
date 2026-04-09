@@ -2,7 +2,7 @@
  
 ![Profile views](https://komarev.com/ghpvc/?username=AmZzPYJS&color=blue)
  
-📍 Versailles, France · 🌐 [Portfolio](https://amzzpyjs.github.io/portfolio/)
+📍 Versailles, France · 🌐 [Portfolio](https://amzzpyjs.github.io/portfolio/) · 💼 [Linkedin](https://www.linkedin.com/in/amîn-mezouer-575838293/)
  
 ---
  
@@ -15,7 +15,7 @@
 | [**Git Repo Analyzer**](https://github.com/AmZzPYJS/Analyse-Rust-Depot-Git) | Rust | CLI tool to analyze Git repositories — commit stats, author metrics, file changes |
 | [**Social Data Pipeline**](https://github.com/AmZzPYJS/InPoDa-Social-Data-Analysis) | Python · Pandas · Matplotlib | Social media data pipeline simulation with sentiment analysis and visualization |
 | [**Port Scanner**](https://github.com/AmZzPYJS/Scan-port-localhost) | Python | Network utility that scans localhost ports and reports open/closed status |
-| [**VLSM Calculator**](https://github.com/AmZzPYJS/VLSM) | Python · Streamlit | Web-based subnetting calculator for Variable Length Subnet Masking |
+| [**VLSM Calculator**](https://github.com/AmZzPYJS/VLSM-Calculator-and-Vizualisation-Python) | Python · Streamlit | Web-based subnetting calculator for Variable Length Subnet Masking |
  
 ---
  
