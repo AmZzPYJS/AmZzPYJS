@@ -1,4 +1,5 @@
 # Amîn Mezouer | Computer Science Student @UVSQ
+## Data/IA · Cybersecurity/Networks · Looking for apprenticeship Sept 2026
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmZzPYJS&color=blue)
